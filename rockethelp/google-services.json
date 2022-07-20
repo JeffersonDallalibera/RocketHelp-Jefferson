@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "365305315501",
+    "project_id": "plannerdigital-dc0f6",
+    "storage_bucket": "plannerdigital-dc0f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365305315501:android:d292cc5da428e204208624",
+        "android_client_info": {
+          "package_name": "com.DigiPlan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365305315501-3aejsdpr84es0jl7v44cl90un0t236hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS0niIQI3HMobgS430U-iT9X0wCb7wLAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365305315501-3aejsdpr84es0jl7v44cl90un0t236hd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "365305315501-n1le8mdiumn5mppo8pe6tr2lap9n6r6n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DigiPlan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
